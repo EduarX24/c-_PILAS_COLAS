@@ -1,0 +1,10 @@
+C:\Users\UNI\source\repos\pilas\bin\Debug\pilas.exe.config
+C:\Users\UNI\source\repos\pilas\bin\Debug\pilas.exe
+C:\Users\UNI\source\repos\pilas\bin\Debug\pilas.pdb
+C:\Users\UNI\source\repos\pilas\obj\Debug\pilas.csproj.AssemblyReference.cache
+C:\Users\UNI\source\repos\pilas\obj\Debug\pilas.Form1.resources
+C:\Users\UNI\source\repos\pilas\obj\Debug\pilas.Properties.Resources.resources
+C:\Users\UNI\source\repos\pilas\obj\Debug\pilas.csproj.GenerateResource.cache
+C:\Users\UNI\source\repos\pilas\obj\Debug\pilas.csproj.CoreCompileInputs.cache
+C:\Users\UNI\source\repos\pilas\obj\Debug\pilas.exe
+C:\Users\UNI\source\repos\pilas\obj\Debug\pilas.pdb
